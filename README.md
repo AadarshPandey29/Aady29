@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aady29
+- 👋 Hi, I’m Aadarsh Pandey
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning all about Data Science and also learning python with data science
 - 💞️ I’m looking to collaborate on any Data Science project of beginner level
